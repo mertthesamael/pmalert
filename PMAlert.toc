@@ -4,6 +4,6 @@
 ## Author: Merto
 ## Version: 1.1
 ## SavedVariables: PMAlertDB
-
+## X-Curse-Project-ID: 1500152
 Core.lua
 Options.lua
