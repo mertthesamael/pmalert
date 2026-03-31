@@ -1,0 +1,9 @@
+## Interface: 120001, 50503, 30405, 20505, 11508
+## Title: PM Alert
+## Notes: Whisper alert with optional sound and edge flash.
+## Author: Merto
+## Version: 1.1
+## SavedVariables: PMAlertDB
+
+Core.lua
+Options.lua
